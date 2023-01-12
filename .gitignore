@@ -392,3 +392,9 @@ cmake_install.cmake
 
 # Pycharm and other IDEs
 \.idea
+
+# Tagion link
+wolfssl/error_ssl.h
+wolfssl/wolfcrypt/error_crypt.h
+wolfssl/wolfssl_version.h
+
